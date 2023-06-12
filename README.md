@@ -2,13 +2,13 @@
 # Berkeley Unboxing Data Science - Summer 2023
 # 
 ## 
-### Lead: Edwin Vargas and Andrew Chen 
+### Lead Facilitators: Andrew Chen and Edwin Vargas
 
-**Public Facing Repository for Berkeley Unboxing Data Science**
+**Public Facing Repository for Berkeley Unboxing Data Science (BUDS)**
 
-Led by Professor Andrew Bray and Professor Deborah Nolan and in conjunction with Data Science Undergraduate Studies of the UC Berkeley Division of Computing, Data Science and Society, the BUDS program is a five week internship for current high school juniors and seniors to gain relevant skills within the field of data science. For more information, please visit the official program website
+Led by Professor Andrew Bray and Professor Deborah Nolan and in conjunction with Data Science Undergraduate Studies of the UC Berkeley College of Computing, Data Science, and Society, the BUDS program is a five-week internship for current high school juniors and seniors to gain relevant skills within the field of data science. For more information, please visit the official program website.
 
-N.B. This reposistory is currently being maintained by Lead Facilitator, Andrew Chen and Edwin Vargas.
+N.B. This repository is currently being maintained by Lead Facilitators Andrew Chen and Edwin Vargas.
 
 | Module.       | Summary                                       | Binder Link          |Berkeley Datahub Link           |
 |---------------|-----------------------------------------------|----------------------|--------------------------------|
