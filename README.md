@@ -1,8 +1,8 @@
-# BUDS-SU23
-# Berkeley Unboxing Data Science - Summer 2023
+# BUDS-SU24
+# Berkeley Unboxing Data Science - Summer 2024
 # 
 ## 
-### Lead Facilitators: Andrew Chen and Edwin Vargas Navarro
+### Lead Facilitators: Edwin Vargas Navarro and William Reed
 
 **Public Facing Repository for Berkeley Unboxing Data Science (BUDS)**
 
