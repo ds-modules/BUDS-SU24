@@ -8,7 +8,7 @@
 
 Led by Professor Andrew Bray and Professor Deborah Nolan and in conjunction with Data Science Undergraduate Studies of the UC Berkeley College of Computing, Data Science, and Society, the BUDS program is a five-week internship for current high school juniors and seniors to gain relevant skills within the field of data science. For more information, please visit the official program website.
 
-N.B. This repository is currently being maintained by Lead Facilitators Andrew Chen and Edwin Vargas Navarro.
+N.B. This repository is currently being maintained by Lead Facilitators Edwin Vargas Navarro and William Reed
 
 | Module        | Summary                                       | Binder Link          |Berkeley DataHub Link           |
 |---------------|-----------------------------------------------|----------------------|--------------------------------|
